@@ -1,0 +1,1 @@
+{"name":"dreamland-sample","version":"1.0.0","description":"","main":"index.js","type":"module","scripts":{"start":"node index.js"},"keywords":[],"author":"","license":"ISC","dependencies":{"@mercuryworkshop/dreamlandjs":"^0.0.1","vite":"^5.1.4"}}

@@ -1,13 +1,13 @@
 import "@mercuryworkshop/dreamlandjs";
 
-function App() {
+const App: Component<{}, {}> = function() {
   return (
     <div>
-      <h1>Hello, Dreamland!</h1>
+      
     </div>
-  )
+  );
 }
 
 window.addEventListener("load", () => {
-  document.body.appendChild(<App />);
+  document.body.appendChild(<App/>);
 });
